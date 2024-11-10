@@ -1,7 +1,7 @@
 - 👋 大家好！我是一名来自**太原理工大学**软件工程专业的本科生，志在长期深耕软件开发领域。
 - 👀 **路虽远，行则将至。**——我的座右铭始终激励着我不断前行。
 - 🌱 身处程序员最“卷”圈子之一的 Java 圈，我却在努力朝着**全栈、复合型人才**的方向转型。
-- 💞️ 热爱生活，钟情运动，对自己所处的行业与当下从事的事业满怀热忱，更多关于我的信息：[**https://rjxy.tyut.edu.cn/info/1173/4351.htm**](https://rjxy.tyut.edu.cn/info/1173/4351.htm)
+- 💞️ 热爱生活，钟情运动，对自己所处的行业与当下从事的事业满怀热忱，
 - 📫 若有交流意向，欢迎致信 **17200606763@163.com。**
-- 😄 很高兴认识大家！更多地了解我，可以访问：[**https://blog.csdn.net/guojiaqi_**](https://blog.csdn.net/guojiaqi_) （注意这里的下划线呦）
+- 😄 很高兴认识大家！更多关于我的信息：[**https://rjxy.tyut.edu.cn/info/1173/4351.htm**](https://rjxy.tyut.edu.cn/info/1173/4351.htm) 我的博客：[**https://blog.csdn.net/guojiaqi_**](https://blog.csdn.net/guojiaqi_) （注意这里的下划线呦）
 - ⚡ 这是我的 GitHub 主页，期待与你相遇。
